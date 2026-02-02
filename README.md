@@ -28,10 +28,11 @@ This dashboard was created to transform raw HR data into meaningful insights tha
 
 ## Dashboard Preview (PDF)
 
-📄 [Click here to view the complete HR Analytics Dashboard (PDF)](HR_Analytics_Dashboard.pdf)
+📄 [Click here to view the complete HR Analytics Dashboard (pbix)](https://github.com/ZunairaAkhtar-Data/PowerBI-HR-Analytics-Dashboard/blob/main/HR_Analytics_Dashboard.pbix)
 
 
 ## Purpose
 This project was built for learning and portfolio purposes to demonstrate practical HR analytics and Power BI skills.
+
 
 
