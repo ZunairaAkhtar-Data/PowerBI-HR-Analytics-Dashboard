@@ -27,11 +27,13 @@ This dashboard was created to transform raw HR data into meaningful insights tha
 - Microsoft Excel (for data preparation)
 
 ## Dashboard Preview (PDF)
+<img width="768" height="426" alt="image" src="https://github.com/user-attachments/assets/50a83fd8-2cdb-42da-9370-97930830054f" />
 
 
 
 ## Purpose
 This project was built for learning and portfolio purposes to demonstrate practical HR analytics and Power BI skills.
+
 
 
 
