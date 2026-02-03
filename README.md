@@ -27,18 +27,18 @@ This dashboard was created to transform raw HR data into meaningful insights tha
 - Microsoft Excel (for data preparation)
 
 ## Dashboard Preview (PDF)
-<img width="768" height="426" alt="image" src="https://github.com/user-attachments/assets/50a83fd8-2cdb-42da-9370-97930830054f" />
-<img width="773" height="435" alt="image" src="https://github.com/user-attachments/assets/894d4796-64db-4157-94e5-a9d919980f0b" />
-<img width="765" height="433" alt="image" src="https://github.com/user-attachments/assets/c2e5c842-c97e-450a-962c-f730051f78cb" />
-<img width="767" height="433" alt="image" src="https://github.com/user-attachments/assets/f798e7b5-bb12-4240-86f4-b662682fbb41" />
-<img width="763" height="433" alt="image" src="https://github.com/user-attachments/assets/8a67e6a7-3a71-4104-bd30-25aedfbd975a" />
-<img width="769" height="433" alt="image" src="https://github.com/user-attachments/assets/6543d9b8-c699-41b6-be4e-38c6494d468e" />
 <img width="995" height="579" alt="image" src="https://github.com/user-attachments/assets/07df947b-121e-4600-b66e-617b9ba97fca" />
+<img width="990" height="582" alt="image" src="https://github.com/user-attachments/assets/c4646d98-ecfd-4d98-9c61-852333b71386" />
+<img width="994" height="576" alt="image" src="https://github.com/user-attachments/assets/08a3714d-f2fa-4c94-81ff-2f616120729b" />
+<img width="996" height="579" alt="image" src="https://github.com/user-attachments/assets/5f159e31-38ba-4dd9-8ebb-1fd201415423" />
+<img width="993" height="576" alt="image" src="https://github.com/user-attachments/assets/534b4310-2b19-4d85-b75a-6d9daeefd076" />
+<img width="996" height="575" alt="image" src="https://github.com/user-attachments/assets/068e8b6e-ed13-4eeb-ac8e-72ca8190231e" />
 
 
 
 ## Purpose
 This project was built for learning and portfolio purposes to demonstrate practical HR analytics and Power BI skills.
+
 
 
 
