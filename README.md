@@ -28,11 +28,17 @@ This dashboard was created to transform raw HR data into meaningful insights tha
 
 ## Dashboard Preview (PDF)
 <img width="768" height="426" alt="image" src="https://github.com/user-attachments/assets/50a83fd8-2cdb-42da-9370-97930830054f" />
+<img width="773" height="435" alt="image" src="https://github.com/user-attachments/assets/894d4796-64db-4157-94e5-a9d919980f0b" />
+<img width="765" height="433" alt="image" src="https://github.com/user-attachments/assets/c2e5c842-c97e-450a-962c-f730051f78cb" />
+<img width="767" height="433" alt="image" src="https://github.com/user-attachments/assets/f798e7b5-bb12-4240-86f4-b662682fbb41" />
+<img width="763" height="433" alt="image" src="https://github.com/user-attachments/assets/8a67e6a7-3a71-4104-bd30-25aedfbd975a" />
+<img width="769" height="433" alt="image" src="https://github.com/user-attachments/assets/6543d9b8-c699-41b6-be4e-38c6494d468e" />
 
 
 
 ## Purpose
 This project was built for learning and portfolio purposes to demonstrate practical HR analytics and Power BI skills.
+
 
 
 
